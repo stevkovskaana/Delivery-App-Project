@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "663283893967",
+    "project_id": "mis-deliveryapp",
+    "storage_bucket": "mis-deliveryapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663283893967:android:a2f0eddc9d3421a09819ba",
+        "android_client_info": {
+          "package_name": "com.example.delivery_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR6rBMukAT5DI2IdAdBa8OWsmddsQ4i_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
